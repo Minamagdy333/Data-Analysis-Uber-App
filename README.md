@@ -10,8 +10,21 @@ Revenue Analysis \
 4-How does revenue vary across months for each vehicle type?\
 5-Which month records the highest revenue performance?\
 Booking Analysis\
-1-How many bookings were successfully completed?\
-2-Which vehicle type has the highest completed bookings?\
-3-Which vehicle type has the highest lost bookings?\
-4-What is the overall booking loss rate?\
-5-Which vehicle types experience the greatest booking losses?
+6-How many bookings were successfully completed?\
+7-Which vehicle type has the highest completed bookings?\
+8-Which vehicle type has the highest lost bookings?\
+9-What is the overall booking loss rate?\
+10-Which vehicle types experience the greatest booking losses?\
+Customer Analysis\
+11-How many customers use the service?\
+12-Which vehicle type serves the most customers?\
+13-Which vehicle type serves the fewest customers?\
+14-How does customer activity change throughout the year?\
+Payment Analysis\
+15-Which payment method is most preferred by customers?\
+16-Which payment method generates the highest revenue?\
+17-Which payment method contributes the least revenue?\
+18-Is there a relationship between payment method usage and revenue generation?\
+Business Performance\
+19-Which vehicle types drive the majority of business revenue?\
+20-Which vehicle types require operational improvements due to high booking losses?
