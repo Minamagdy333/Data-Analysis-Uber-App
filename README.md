@@ -55,7 +55,15 @@ Vehicle Performance KPIs\
 -Lost Bookings per Vehicle Type\
 -Customers per Vehicle Type
 
-# Dashboard
+# Dashboard Preview
+The dashboard consists of five analytical pages:
+- Home Page
+- Overview Analysis
+- Vehicle Performance Analysis
+- Revenue Analysis
+- Customer Analysis
+# Dashboard Screenshots
+# HomePage
 ![uploading_Screenshot 2026-05-30 153103.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153103.png)
 ![uploading_Screenshot 2026-05-30 153201.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153201.png)
 ![uploading_Screenshot 2026-05-30 153235.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153235.png)
