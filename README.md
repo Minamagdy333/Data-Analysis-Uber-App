@@ -28,3 +28,27 @@ Payment Analysis\
 Business Performance\
 19-Which vehicle types drive the majority of business revenue?\
 20-Which vehicle types require operational improvements due to high booking losses?
+# KPIs
+Revenue KPIs\
+-Total Revenue\
+-Revenue by Vehicle Type\
+-Monthly Revenue\
+-Revenue Growth Trend\
+Booking KPIs\
+-Total Bookings\
+-Completed Bookings\
+-Lost Bookings\
+-Booking Completion Rate\
+Customer KPIs\
+-Total Customers\
+-Customers by Vehicle Type\
+-Monthly Active Customers\
+Payment KPIs\
+-Revenue by Payment Method\
+-Transactions by Payment Method\
+-Most Preferred Payment Method\
+Vehicle Performance KPIs\
+-Revenue per Vehicle Type\
+-Completed Bookings per Vehicle Type\
+-Lost Bookings per Vehicle Type\
+-Customers per Vehicle Type
